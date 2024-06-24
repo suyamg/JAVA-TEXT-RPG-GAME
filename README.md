@@ -13,5 +13,5 @@
 
 
 <div align=center> 국민대학교 객체지향프로그래밍에서 java를 기반으로 구현한 TEXT RPG GAME </div>
-<div align=center> 기간: 2023/10 - 2023/12 </div>
+<div align=center> 기간) 2023/10 - 2023/12 </div>
 
