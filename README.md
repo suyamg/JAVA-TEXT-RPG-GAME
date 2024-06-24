@@ -12,6 +12,27 @@
 
 
 
-<div align=center> 국민대학교 객체지향프로그래밍에서 java를 기반으로 구현한 TEXT RPG GAME </div>
+<div align=center> 국민대학교 객체지향프로그래밍 TEXT RPG GAME </div>
 <div align=center> (기간) 2023/11 </div>
 
+---
+
+# (1) 요구 사항
+
+Java Development Kit (JDK): JDK 8 이상
+
+Gradle: Gradle 6.8 이상
+
+Git: 최신 버전
+
+운영 체제: Windows, macOS, Linux
+
+# (2) 설치 및 실행
+```
+git clone https://github.com/suyamg/JAVA-TEXT-RPG-GAME.git
+cd JAVA-TEXT-RPG-GAME
+```
+```
+gradle build
+gradle run
+```
